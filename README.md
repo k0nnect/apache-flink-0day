@@ -31,7 +31,7 @@ Apache Flink is a distributed stream-processing framework, and an SSRF vulnerabi
 - **Target Service**: HTTP server running on `http://172.17.0.1:8080`
 -----
 
-- this is tested and worked. 
+- this is tested and working. 
 - thank you violent vira for the music :3
 - (yes ai did the xml)
 - ![image](https://github.com/user-attachments/assets/c932d7f6-b4c2-4215-9aca-d5ef4875db60)
