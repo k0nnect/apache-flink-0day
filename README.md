@@ -8,7 +8,7 @@ This repository shows a Server-Side Request Forgery (SSRF) vulnerability in Apac
 - **Component**: REST API (`/jars/upload`, `/jars/run`)
 - **Version**: 2.0.0 (tested with `flink:2.0.0` Docker image) so whatevers most up to date as of april 24th
 - **Vulnerability Type**: Server-Side Request Forgery (SSRF)
-- **Status**: not reported, do it for me
+- **Status**: Reported (05/02/2025)
 - **Researcher**: [k0nnect](https://github.com/k0nnect)
 - **Discovered**: April 2025
 
